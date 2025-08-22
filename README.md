@@ -50,5 +50,3 @@ src/
 📧 criisv95@gmail.com
 
 🌐 www.linkedin.com/in/cristian-vera-desarrollador
-
-⭐ Si te gusta este proyecto, ¡no dudes en darle una estrella en GitHub!
