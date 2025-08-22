@@ -1,4 +1,4 @@
-# 📱 Calculadora en Vue
+# 📱 Calculadora con Vue
 
 Una calculadora sencilla desarrollada con **Vue 3**.  
 Este proyecto lo realicé como práctica personal para reforzar mis conocimientos de Vue y lógica de programación.
