@@ -15,7 +15,9 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 ---
 
 ## 🖼️ Captura de pantalla
-![Captura de la calculadora](./assets/screenshot.png)
+[Ver captura](./src/assets/screenshot.png)
+[![Captura de la calculadora](./src/assets/screenshot.png)](./src/assets/screenshot.png)
+
 
 
 ---
