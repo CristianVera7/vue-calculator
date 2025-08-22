@@ -15,7 +15,7 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 ---
 
 ## 🖼️ Captura de pantalla
-![Captura](https://github.com/CristianVera7/vue-calculator/blob/main/src/assets/screenshot.png?raw=true)
+![Captura de la calculadora](./src/assets/screenshot.png)
 
 
 
