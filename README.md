@@ -32,19 +32,19 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 ## ⚙️ Instalación y ejecución
 
 -Clona el repositorio:
-
+```bash
   git clone https://github.com...
   
   cd vue-calculator
-  
+  ```
 -Instala las dependencias:
-
+```bash
   npm install
-  
+  ```
 -Ejecuta el servidor de desarrollo:
-
+```bash
   npm run dev
-  
+    ```
 
 ---
 
