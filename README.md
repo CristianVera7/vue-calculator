@@ -44,7 +44,7 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 -Ejecuta el servidor de desarrollo:
 ```bash
   npm run dev
-    ```
+```
 
 ---
 
