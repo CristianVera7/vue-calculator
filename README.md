@@ -26,23 +26,22 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 
 ---
 
-## 📂 Estructura del proyecto
-src/
-├─ assets/
-│ └─ screenshot.png
-└─ App.vue
-
----
-
 ## ⚙️ Instalación y ejecución
 
 -Clona el repositorio:
+
   git clone https://github.com...
+  
   cd vue-calculator
+  
 -Instala las dependencias:
+
   npm install
+  
 -Ejecuta el servidor de desarrollo:
+
   npm run dev
+  
 
 ---
 
