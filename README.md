@@ -15,7 +15,10 @@ Este proyecto lo realicé como práctica personal para reforzar mis conocimiento
 ---
 
 ## 🖼️ Captura de pantalla
-![Captura de la calculadora](./assets/screenshot.png)
+<p align="center">
+  <img src="./calculadoravue/assets/screenshot.png" alt="Captura de la calculadora" width="600" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+</p>
+
 
 ---
 
